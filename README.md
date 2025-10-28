@@ -1,63 +1,69 @@
-# 👋 Hi, I'm Vinoth M
+# 👋 Hi, I'm Vinoth M  
+### 🚀 Technical Lead (Mobile + AI) | Flutter Expert | System Architect
 
-💡 **Senior Flutter Developer | Full-Stack Engineer | AI-Driven SaaS Builder**
-
-With over **9 years of hands-on experience**, I specialize in crafting high-quality **Flutter applications**, architecting robust **NestJS backends**, and building scalable **micro SaaS** products. I blend **mobile engineering**, **backend design**, and **AI integration** to deliver impactful, production-grade solutions.
+I'm an innovative **Technical Lead** with over **9 years of experience** building world-class mobile and AI-driven solutions.  
+I specialize in **Flutter**, **NestJS**, and **AI integration**, crafting products that are scalable, intelligent, and globally impactful.
 
 ---
 
-## 👨‍💻 About Me
+## 💡 Professional Summary
 
-- 🔭 Currently leading and developing projects using **Flutter**, **NestJS**, and **MySQL**
-- 🧠 Exploring **LLM Engineering**, **AI-assisted development**, and **AdTech systems**
-- 🏗️ Experienced in **base architecture design**, **code reviews**, and **team leadership**
-- 🌏 Building global SaaS apps (notably property management and automation systems)
-- ✨ Passionate about transforming ideas into intuitive, scalable digital products
+- 🧭 Leading architecture and development of **SaaS-based systems** with **microservice** backends.  
+- 🤖 Building **AI-powered automation** using **LLMs, NLP, and voice assistants**.  
+- 🧱 Designing **clean, modular Flutter architectures** with robust state management.  
+- 🚀 Expert in **CI/CD pipelines** (Jenkins, Fastlane, Azure), **Mixpanel analytics**, and performance optimization.  
+- 👥 Skilled in **team leadership**, **code reviews**, and **sprint planning**.  
+- 🌐 Passionate about merging **AI innovation** with **mobile excellence** to deliver meaningful digital experiences.
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages:**  
-`Dart` • `TypeScript` • `JavaScript` • `Python`
+**Languages & Frameworks:**  
+`Dart` • `Swift` • `TypeScript` • `JavaScript` • `Python`
 
-**Frontend / Mobile:**  
-`Flutter` • `Bloc / Riverpod` • `GetX` • `Material 3` • `Firebase`
+**Mobile:**  
+`Flutter` • `Bloc / Riverpod` • `Clean Architecture` • `iOS (Swift)` • `Firebase` • `Supabase`
 
-**Backend / Server:**  
-`NestJS` • `Node.js` • `Express` • `MySQL` • `PostgreSQL`
+**Backend & APIs:**  
+`NestJS` • `Node.js` • `MySQL` • `REST APIs` • `Microservices`
 
-**DevOps / Tools:**  
-`Docker` • `GitHub Actions` • `CI/CD` • `MailDev` • `Postman`
+**AI / Automation:**  
+`OpenAI APIs` • `Prompt Engineering` • `Voice Assistants` • `NLP` • `Task Automation`
 
-**Other Interests:**  
-`AI / LLMs` • `Prompt Engineering` • `Micro SaaS` • `APIs & Integrations`
+**DevOps & Analytics:**  
+`Jenkins` • `Fastlane` • `Azure Pipeline` • `Docker` • `Mixpanel` • `Google Analytics`
+
+**Cloud & Tools:**  
+`AWS EC2` • `Azure VM` • `GitHub` • `GitLab` • `VS Code` • `Xcode` • `Android Studio`
 
 ---
 
-## 🚀 Featured Projects
+## 🧩 Featured Work
 
 | Project | Description | Tech |
 |----------|--------------|------|
-| 🏢 **SmartProperty** | A micro SaaS property management system supporting landlords, tenants, and managers with AI insights. | Flutter, NestJS, MySQL, Docker |
-| 🤖 **Social AI Planner** | AI-assisted social media content planner for creating & auto-posting across platforms. | Flutter, OpenAI API, Firebase |
-| 🧩 **AdTech Integration Suite** | Custom mediation & adapter workflow system for mobile AdTech use cases. | Dart, TypeScript, REST APIs |
+| 🗂️ **5day.io** | SaaS-based project management system with AI voice assistant for automated task creation and time logging. | Flutter, NestJS, Jenkins, Mixpanel, OpenAI |
+| 💞 **Cliq Connect** | AI-assisted social platform enhancing inclusivity for people with disabilities. | Flutter, Sendbird, LLM APIs |
+| 🌿 **Practical Spiritual Life** | Multimedia content platform with AI-driven sentiment tagging and recommendations. | Flutter, Firebase, NLP |
+| 📦 **Trugo** | Delivery logistics and wallet-based system for efficient courier operations. | Flutter, REST APIs |
+| 💎 **JewelTrace** | RFID-based inventory tracking with analytics dashboard. | Swift, Node.js |
 
 ---
 
-## 🧠 Currently Learning
+## 🎯 Currently Exploring
 
-- 📘 Large Language Models (LLMs) and fine-tuning  
-- 🧩 AI + Flutter hybrid architectures  
-- ☁️ Scalable backend orchestration with Docker & Traefik  
+- 🧠 Advanced **LLM Engineering** and fine-tuning  
+- 🧩 Building **AI-augmented Flutter apps**  
+- ☁️ Scalable backend orchestration with **Docker & microservices**
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=vinothm&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=vinothm&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=dev-vinoth&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-vinoth&theme=radical" />
 </p>
 
 ---
@@ -68,12 +74,12 @@ With over **9 years of hands-on experience**, I specialize in crafting high-qual
   <a href="https://www.linkedin.com/in/vinoth-m-1940a7114/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Vinoth%20M-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:vinothflutter@gmail.com">
-    <img src="https://img.shields.io/badge/Email-vinothflutter@gmail.com-red?style=for-the-badge&logo=gmail" />
+  <a href="mailto:your.email@email.com">
+    <img src="https://img.shields.io/badge/Email-your.email@email.com-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
 
 ---
 
-⭐ _"Code is more than syntax; it’s how you bring clarity and impact to ideas."_  
+⭐ _"Engineering innovation where mobile meets intelligence."_  
 — **Vinoth M**
