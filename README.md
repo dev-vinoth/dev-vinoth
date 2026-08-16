@@ -4,7 +4,7 @@
 
 ### 🚀 Lead Flutter Developer • Mobile Architect • Technical Lead
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Flutter+Expert;Scalable+Mobile+Architecture;SaaS+%26+Product+Engineering;AI-Assisted+Feature+Development" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Flutter+Expert;Scalable+Mobile+Architecture;SaaS+%26+FinTech+Engineering;Spec+Driven+%26+Agentic+AI+Development" />
 
 </div>
 
@@ -12,13 +12,13 @@
 
 # 💡 Professional Summary
 
-Results-driven **Lead Flutter Developer** with **10+ years of experience** in mobile application development, including **5+ years specializing in Flutter**.
+Results-driven **Lead Flutter Developer** with **10+ years of experience** in mobile application development, including **6+ years specializing in Flutter**.
 
-Experienced in leading teams, architecting scalable SaaS platforms, and delivering production-grade mobile applications powered by microservice-based backends.
+Led cross-functional mobile teams delivering **SaaS, FinTech, and marketplace products** on microservice backends — owning architecture, release engineering, and end-to-end delivery.
 
-Strong background in **CI/CD pipelines**, analytics integration, cloud environments, and scalable application architecture.
+Recent work spans a **retail finance application** handling fiat and cryptocurrency transfers, card issuance, and KYC, and the **mobile architecture for an AI marketplace platform** built with **Spec Driven Development** (GitHub SpecKit, ADRs, engineering guardrails, and governance).
 
-Actively involved in **AI & LLM-powered feature development**, including voice-driven workflows, natural language command parsing, and automation systems.
+Actively involved in **AI & LLM-powered feature development** — including agentic coding workflows, voice-driven task automation, natural language command parsing, and prompt/token-optimization for AI-assisted delivery.
 
 Passionate about building high-quality mobile products with clean architecture, strong UX, and reliable performance.
 
@@ -60,10 +60,16 @@ Passionate about building high-quality mobile products with clean architecture, 
 
 ---
 
-## 🤖 AI & Productivity
+## 🤖 AI, Spec Driven & Agentic Development
 
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge\&logo=openai\&logoColor=white)
+![Claude](https://img.shields.io/badge/-Claude-D97706?style=for-the-badge)
+![GitHub SpecKit](https://img.shields.io/badge/-GitHub%20SpecKit-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![OpenSpec](https://img.shields.io/badge/-OpenSpec-0EA5E9?style=for-the-badge)
+![Spec Driven Development](https://img.shields.io/badge/-Spec%20Driven%20Development-111827?style=for-the-badge)
+![Agentic Coding Workflows](https://img.shields.io/badge/-Agentic%20Coding%20Workflows-7C3AED?style=for-the-badge)
 ![Prompt Engineering](https://img.shields.io/badge/-Prompt%20Engineering-111827?style=for-the-badge)
+![Token Optimization](https://img.shields.io/badge/-Token%20Optimization-059669?style=for-the-badge)
 ![LLM Integration](https://img.shields.io/badge/-LLM%20Integration-7C3AED?style=for-the-badge)
 ![Automation](https://img.shields.io/badge/-Automation-0EA5E9?style=for-the-badge)
 
@@ -75,6 +81,7 @@ Passionate about building high-quality mobile products with clean architecture, 
 ![Fastlane](https://img.shields.io/badge/-Fastlane-00F200?style=for-the-badge\&logo=fastlane\&logoColor=black)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge\&logo=githubactions\&logoColor=white)
 ![Codemagic](https://img.shields.io/badge/-Codemagic-F45E3F?style=for-the-badge)
+![Azure Pipelines](https://img.shields.io/badge/-Azure%20Pipelines-0078D7?style=for-the-badge\&logo=azuredevops\&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
 ![AWS EC2](https://img.shields.io/badge/-AWS%20EC2-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
 ![Azure VM](https://img.shields.io/badge/-Azure%20VM-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
@@ -93,22 +100,24 @@ Passionate about building high-quality mobile products with clean architecture, 
 
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 ![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=for-the-badge\&logo=gitlab\&logoColor=white)
+![Jira](https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge\&logo=jira\&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=for-the-badge\&logo=androidstudio\&logoColor=white)
 ![Xcode](https://img.shields.io/badge/-Xcode-147EFB?style=for-the-badge\&logo=xcode\&logoColor=white)
 ![Cursor](https://img.shields.io/badge/-Cursor-000000?style=for-the-badge)
-![Claude](https://img.shields.io/badge/-Claude-D97706?style=for-the-badge)
 ![FlutterFlow](https://img.shields.io/badge/-FlutterFlow-02569B?style=for-the-badge)
+![NotebookLM](https://img.shields.io/badge/-NotebookLM-4285F4?style=for-the-badge\&logo=googlecloud\&logoColor=white)
 
 ---
 
 # 🚀 Featured Projects
 
-| Project                  | Description                                                                                                                                                                     |
-| ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 💳 **Connect Financial** | Core engineer for a large-scale FinTech retail application focused on secure architecture, GraphQL integration, scalable mobile systems, and enterprise-grade user experiences. |
-| 🗂️ **5day.io**          | AI-assisted SaaS project management platform with voice-driven task creation, automated workflows, and scalable microservice architecture.                                      |
-| 💞 **Cliq Connect**      | Accessibility-focused social platform designed to improve inclusive communication through modern mobile experiences and AI-assisted interaction features.                       |
+| Project | Description |
+| --- | --- |
+| 🤖 **O3.ai (AI Marketplace)** | Leading the mobile track for a chemical industry AI marketplace platform — owning Flutter application architecture, module boundaries, and integration contracts. Introduced Spec Driven Development (GitHub SpecKit) with Claude as the primary coding agent, backed by ADRs, guardrails, and token-optimization practices. |
+| 💳 **Connect Finance** | Led Flutter development of a retail finance app supporting fiat and cryptocurrency transfers, card issuance, and multi-currency trading. Delivered KYC (Alloy SDK), VGS tokenization, and PCI-DSS aware security flows including biometric auth and device binding, on a Clean Architecture + Bloc foundation. |
+| 🗂️ **5day.io** | AI-assisted SaaS project management platform with voice-driven task creation, automated workflows, and scalable microservice architecture. Built internal packages and CI/CD automation (Jenkins, Fastlane) adopted across teams. |
+| 💞 **Cliq Connect** | Accessibility-focused inclusive dating app for people with disabilities, with real-time chat (Sendbird), screen-reader support, and safety-first UX. |
 
 ---
 
@@ -116,13 +125,23 @@ Passionate about building high-quality mobile products with clean architecture, 
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/vinoth-m-1940a7114/" target="_blank">
+<a href="https://linkedin.com/in/vinoth-murukesan" target="_blank">
 <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:vinoth.m@gmail.com">
+<a href="mailto:vinoth38vm@gmail.com">
 <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
+<a href="tel:+919790301078">
+<img src="https://img.shields.io/badge/-Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
+</div>
+
+<div align="center">
+
+📍 Coimbatore, Tamil Nadu, India
 
 </div>
 
@@ -130,6 +149,6 @@ Passionate about building high-quality mobile products with clean architecture, 
 
 <div align="center">
 
-### ⭐ Building scalable mobile experiences with clean architecture and intelligent workflows
+### ⭐ Building scalable mobile experiences with clean architecture and intelligent, spec-driven workflows
 
 </div>
